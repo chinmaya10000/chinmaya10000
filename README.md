@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/chinmaya10000/chinmaya10000/blob/main/banner.png" />
+</p>
+
 # 👋 Hi, I'm Chinmaya Pradhan
 
 > 🧑‍💻 DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | GitHub Actions | GitOps  
