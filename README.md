@@ -1,67 +1,71 @@
 # 👋 Hi, I'm Chinmaya Pradhan
 
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | GitOps | CI/CD  
-🔧 Passionate about automating cloud infrastructure and enabling seamless software delivery.
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chinmaya10000)
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | GitHub Actions | GitOps  
+🔧 Passionate about automating infrastructure, optimizing CI/CD, and building secure cloud-native pipelines.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- **Cloud Platforms:** AWS (EC2, EKS, RDS, IAM, S3, Route 53, ACM)
-- **Infrastructure as Code:** Terraform, Ansible
-- **Containers & Orchestration:** Docker, Kubernetes, Helm
-- **CI/CD Tools:** Jenkins, GitLab CI, GitHub Actions, ArgoCD
-- **Monitoring & Logging:** Prometheus, Grafana, EFK (Elasticsearch, Fluent Bit, Kibana)
-- **Security & Scanning:** Trivy, SonarQube, OWASP Dependency-Check
-- **Scripting & Automation:** Bash, Python
-- **Version Control & GitOps:** GitHub, GitLab, Bitbucket, Bitnami SealedSecrets
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+</p>
 
 ---
 
 ## 🚀 Key Projects
 
-### 🔹 [GitOps-based CI/CD on EKS](https://github.com/chinmaya10000/gitops-cicd-eks)
-- Built a GitOps pipeline using Jenkins, ArgoCD, Helm & Terraform
-- Automated CI/CD from code commit to production on EKS
-- Integrated quality gates and security scans using SonarQube & Trivy
-- Enabled secure image pulls from private ECR and secret management via SealedSecrets
+### 🔹 [GitOps-based CI/CD on EKS](https://github.com/chinmaya10000/gitops-eks-terraform)
+- Built a complete GitOps pipeline using **Jenkins**, **GitHub Actions**, **ArgoCD**, and **Helm**
+- Managed infrastructure with Terraform; deployed microservices to Amazon EKS
+- Integrated **SonarQube**, **Trivy**, and **Bitnami SealedSecrets** for secure and quality deployments
 
-### 🔹 [Production-Ready EKS Cluster with Terraform](https://github.com/chinmaya10000/eks-terraform-infra)
-- Provisioned EKS cluster using modular Terraform
-- Configured private/public subnets, NAT Gateways, OIDC & IRSA
-- Installed essential EKS add-ons (VPC CNI, CoreDNS, kube-proxy)
-- Integrated Helm, NGINX Ingress, ACM TLS, Cluster Autoscaler, and EBS CSI driver
-- Followed production-grade architecture with best practices
-
-### 🔹 [AMI Pipeline with Jenkins + Packer + Terraform](https://github.com/chinmaya10000/ami-pipeline)
-- Automated AMI creation using Packer triggered by Jenkins
-- Updated Launch Templates & ASGs with new AMIs via Terraform
-- Enabled blue/green deployment with ALB, SSL via ACM
+### 🔹 [AMI Pipeline with Jenkins + Packer + Terraform](https://github.com/chinmaya10000/jenkins-ami-pipeline)
+- Automated AMI creation using Packer triggered via Jenkins
+- Terraform used to update Launch Templates, Auto Scaling Groups, and ALB with SSL via ACM
+- Enabled **blue/green deployments** and hardened security with IAM roles and S3 state locking
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Chinmaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmaya10000&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya10000&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinmaya10000&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaya10000&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya10000&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Trophies
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chinmayap-devops/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmaya10000&theme=radical&margin-w=15" />
+</p>
+
+---
+
+## 📈 Visitor Counter
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chinmaya10000" alt="Visitor Badge"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chinmayap-devops/)
 - 📧 cpradhan.devops@gmail.com
-- 🌐 [GitHub](https://github.com/chinmaya10000)
+- 🧑‍💻 [GitHub](https://github.com/chinmaya10000)
 
 ---
 
-> 🔍 Always learning | 💡 Always building | 🤝 Open to collaboration
+> 🧠 Always learning • 🛠️ Always building • 🤝 Open to collaboration!
