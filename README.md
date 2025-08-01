@@ -41,9 +41,9 @@
 
 ## 📈 GitHub Stats
 
-![Chinmaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayap-devops&show_icons=true&theme=radical)
+![Chinmaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmaya10000&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayap-devops&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya10000&layout=compact&theme=radical)
 
 ---
 
