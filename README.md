@@ -41,19 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaya10000&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya10000&layout=compact&theme=dark" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinmaya10000&theme=onedark&row=1" />
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chinmaya10000" alt="visitors"/>
-</p>
-
 ---
 
 ## 📬 Connect with Me
