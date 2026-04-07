@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Chinmaya Pradhan</h1>
 
 <p align="center">
-🧑‍💻 DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | GitHub Actions | GitOps <br>
-🚀 Passionate about automating infrastructure, optimizing CI/CD, and building secure cloud-native pipelines.
+DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | GitHub Actions | GitOps
+</p>
+
+<p align="center">
+Focused on designing scalable cloud infrastructure, automating CI/CD pipelines, and building secure, production-ready systems.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ☁️ Working on cloud-native infrastructure using AWS, Terraform, and Kubernetes (EKS)
-- 🔁 Building end-to-end CI/CD pipelines using GitHub Actions and Jenkins
-- 🚀 Implementing GitOps workflows using ArgoCD
-- 🐳 Managing containerized applications using Docker and ECR
-- 🔐 Applying DevSecOps practices with SonarQube, Trivy, and OWASP
+- Designing and managing cloud-native infrastructure on AWS using Terraform and Kubernetes (EKS)  
+- Building end-to-end CI/CD pipelines using GitHub Actions and Jenkins  
+- Implementing GitOps-based deployments using ArgoCD  
+- Managing containerized microservices using Docker and Amazon ECR  
+- Integrating DevSecOps practices including SAST, dependency scanning, and container security  
 
-💡 I enjoy solving real-world problems through automation and building scalable production systems.
+💡 Passionate about automation, reliability, and building highly available production systems.
 
 
 ## 🌐 Socials:
@@ -32,12 +35,4 @@
 ## 📊 GitHub Activity
 
 [![Chinmaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmaya10000&theme=github-dark)](https://github.com/chinmaya10000)
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinmaya10000&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=chinmaya10000&limit=5&theme=radical" />
-</p>
