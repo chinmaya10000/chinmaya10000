@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 DevOps Engineer with experience in designing and managing cloud-native infrastructure on AWS using Terraform and Kubernetes (EKS)<br><br>⚙️ Building end-to-end CI/CD pipelines with Jenkins and GitHub Actions, integrated with GitOps (ArgoCD)<br><br>🐳 Managing containerized applications using Docker and ECR in microservices architecture<br><br>🔐 Implementing DevSecOps practices including SAST, dependency scanning, and container security<br><br>📈 Passionate about automation, scalability, and building production-ready systems
+<h1 align="center">Hi 👋, I'm Chinmaya Pradhan</h1>
+
+<p align="center">
+🧑‍💻 DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | GitHub Actions | GitOps <br>
+🚀 Passionate about automating infrastructure, optimizing CI/CD, and building secure cloud-native pipelines.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- ☁️ Working on cloud-native infrastructure using AWS, Terraform, and Kubernetes (EKS)
+- 🔁 Building end-to-end CI/CD pipelines using GitHub Actions and Jenkins
+- 🚀 Implementing GitOps workflows using ArgoCD
+- 🐳 Managing containerized applications using Docker and ECR
+- 🔐 Applying DevSecOps practices with SonarQube, Trivy, and OWASP
+
+💡 I enjoy solving real-world problems through automation and building scalable production systems.
 
 
 ## 🌐 Socials:
