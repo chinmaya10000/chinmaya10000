@@ -33,8 +33,9 @@
 
 [![Chinmaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmaya10000&theme=github-dark)](https://github.com/chinmaya10000)
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinmaya10000&theme=onestar&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmaya10000&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 ### 🔝 Top Contributed Repo
 <p align="center">
